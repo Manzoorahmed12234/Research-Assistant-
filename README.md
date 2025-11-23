@@ -103,9 +103,10 @@ Contributions, issues, and feature requests are welcome\! Feel free to check the
 
 ## 📄 License
 
-Distributed under the [LICENSE NAME] License. See `LICENSE` for more information.
+Distributed under the TECH FOR TIM License. See `LICENSE` for more information.
 
 ```
 
 Would you like me to fill in the bracketed placeholders like `[YOUR_REPO_URL]` or `[YOUR_ISSUES_LINK]`?
 ```
+
