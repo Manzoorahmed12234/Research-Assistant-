@@ -57,7 +57,7 @@ Create a `.env` file in the root directory to store your credentials:
 
 OPENAI_API_KEY="sk-..."
 PINECONE_API_KEY="abc-..."
-PINECONE_ENVIRONMENT="us-west1-gcp" # or your chosen environment
+PINECONE_ENVIRONMENT="us-west1-gcp"
 ```
 
 -----
@@ -95,12 +95,6 @@ To take this architecture from a functional prototype to a robust, scalable serv
 
 -----
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://www.google.com/search?q=%5BYOUR_ISSUES_LINK%5D) for open tasks.
-
------
-
 ## 📄 License
 
 Distributed under the TECH FOR TIM License. See `LICENSE` for more information.
@@ -109,4 +103,5 @@ Distributed under the TECH FOR TIM License. See `LICENSE` for more information.
 
 Would you like me to fill in the bracketed placeholders like `[YOUR_REPO_URL]` or `[YOUR_ISSUES_LINK]`?
 ```
+
 
