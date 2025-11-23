@@ -43,8 +43,8 @@ The agent is designed around a set of decoupled Python modules, managed by the c
 Clone the repository and install dependencies:
 
 ```bash
-git clone [YOUR_REPO_URL]
-cd [your-project-folder]
+git clone 
+cd 
 pip install -r requirements.txt
 ````
 
@@ -100,8 +100,3 @@ To take this architecture from a functional prototype to a robust, scalable serv
 Distributed under the TECH FOR TIM License. See `LICENSE` for more information.
 
 ```
-
-Would you like me to fill in the bracketed placeholders like `[YOUR_REPO_URL]` or `[YOUR_ISSUES_LINK]`?
-```
-
-
